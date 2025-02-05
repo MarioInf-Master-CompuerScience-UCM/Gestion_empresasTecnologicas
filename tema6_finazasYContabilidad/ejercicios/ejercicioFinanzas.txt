@@ -1,0 +1,92 @@
+EJERCICIO FINAZAS
+
+1º Calcula el patrimonio neto de la empresa:
+
+	Ingresos 140.000:
+		Ventas: 140.000
+		
+	Gastos 101.000:
+		Sueldos: 80.000
+		Facturas: 6.000
+		Alquiler: 12.000
+		Gastos fiancieros: 3.000
+		
+	Beneficios bruto: Ingresos - gastos: 140.000 - 101.000 = 39.000
+	Beneficio neto: Beneficio bruto - Impuestos : 39.000 - 33.3% = 26.000
+	
+	
+	
+2º Cuentas de perdidas y gancias al cuerre del año
+
+	Reserva inicial: 90.000
+	Beneficio neto: +26.000
+	Dividendos: -3.000
+	
+	Reserva final de año: 113.000
+
+
+
+3º Flujos de caja
+
+	Actividades de operacion:
+		Cobros a clientes: +130.000
+		Pago de sueldos: -80.000
+		Pago de facturas: -3.000
+		Pago de alquiler: -12.000
+		Intereses del préstamo: -3.000
+		Impuestos: -13.000
+		
+		Flujo neto por activo o operación: +19.000
+
+
+	Actividades de inversión:
+		Compra de ordenadores: -45.000
+		
+		Flujo neto por inversión: -45.000
+	
+	
+	Actividades de financiación:
+		Prestamo recibido: +20.000
+		Devoluciones del prestamo: -5.000
+		Dividendos de navidad: -3.000
+		
+		Flujo de financiación: +102.000
+		
+	Tesoresía neta: +76.000
+		
+		
+		
+4º Balance general o de situación
+
+	Activos:
+		Cuentas: 76.000
+		Ordenadores: 45.000
+		Por cobrar: 10.000
+		
+		Valor de los activos: 131.000
+		
+		
+	Pasivos:
+		Préstamos: 15.000
+		Facturas: 3.000
+		
+		Valor de los pasivos: 18.000
+		
+	
+	Patrimonio:
+		Reserva final del año: 113.000
+		
+	Balance general: activos = pasivos + patrimonio	 // Debemos comprobar que coincida ambos valores
+		pasivos + patrimonio = 113.000 + 18.000 = 131.000
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		

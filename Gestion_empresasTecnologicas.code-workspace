@@ -1,0 +1,49 @@
+{
+    "folders": [
+        {
+            "path": "tema1_areaTIenLaOrganizacion"
+        },
+        {
+            "path": "tema2_planEstratégicoDeLaOrganización"
+        },
+        {
+            "path": "tema3_marketing"
+        },
+        {
+            "path": "tema4_leyDeProteccionDeDatos"
+        },
+        {
+            "path": "tema5_comunicacionDeInformacionEnUnaEmpresa"
+        },
+        {
+            "path": "tema6_finazasYContabilidad"
+        },
+        {
+            "path": "tema7_gestionDeRecursos"
+        },
+        {
+            "path": "tema8_modelosDeNegocio"
+        },
+        {
+            "path": "tema9_leanStartup"
+        },
+        {
+            "path": "tema10_gestionDeAdquisiciones"
+        },
+        {
+            "path": "tema11_devOps"
+        },
+        {
+            "path": "tema12_machineLearningOperations"
+        },
+        {
+            "path": "conferencias"
+        },
+        {
+            "path": "examenes"
+        },
+        {
+            "path": "."
+        },
+    ]
+}

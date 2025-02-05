@@ -1,0 +1,26 @@
+La estructura de las empresas no tiene por que ser siempre la misma. En las diapositivas podemos ver ejemplos de las diferentes subáreas que pueden componer 
+el área de TI.
+
+PMO -> Oficina de Proyectos (Project Managment Office)
+IMPORTANTE EXAMEN - > Las cinco principales areas de enfoque de gobierno de TI dentro de las empresas
+
+
+La organización estructural de las empresas se clasifica en los siguientes tipos:
+    Estructura funcional: El jefe de proyecto tiene poco peso dentro de cada proyecto. La empresa se organiza por áreas funcionales y hay una gran tencencia hacia la
+    especialización de los equipos detrabajo.
+
+    Estructura proyectizada: El jefe de proyecto tiene un gran peso y autoridad, disponiendo de los diferentes recursos. Los equipos de trabajo no pertenecen a áreas
+    funcionales concretas, de modo que al finalizar un proyecto deberán empezar con otro proyecto o finalizar su estancia en la empresa.
+
+    Estructura matricial: La organización de la empresa es un punto intermedio entre las dos anteriores. Los recusos pertenecen a un área funcional concreta y son cedidos
+    a los diferentes proyectos para su desarrollo. El jefe de proyecto tiene un gran peso en el proyecto. Cuando el proyecto finaliza, los recursos retornan al departamento
+    de origen. Los diferentes recursos tienen dos jefes: El jefe de departamenrte (el cual es estable) el jefe del proyecto (el cual dura mientras se desarrolle el proyecto).
+        Matricial fuerte: El jefe de proyecto tiene gran autoridad.
+        Matricial debil: El jefe de proyecto tiene poca autoridad.
+        Matricial balanceada: El jefe de proyecto tiene una autoridad promedio.
+
+Las empresas de gran tamaño pueden contar con varias direcciones, las cuales pueden estar estructuradas de diferentes maneras. Estas direcciones están bien limitadas a 
+las áreas que abarcan y no se solapan entre sí.
+
+La direccion estratgica d ela empresa es llevada a cabo por el gobierno coorporativo,el cual debe gestionar todas las áreas que conforman la msimas. El área de TI es
+únicamente una de las áreas que componen la organización.
