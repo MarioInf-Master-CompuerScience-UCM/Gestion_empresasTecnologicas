@@ -1,6 +1,8 @@
 # Gestión de empresas de base tecnológica
 
-**_Los presentes contenidos corresponden con la edición del curso 2022-2023_**
+![Idioma: Español](https://img.shields.io/badge/Idioma-Español-green.svg)
+![Idioma: Español](https://img.shields.io/badge/Año_académico-2022/2023-blue.svg)
+![Idioma: Español](https://img.shields.io/badge/Curso_académico-Primer_curso-blue.svg)
 
 Agradecimientos a los colaboradores del repositorio:
 
@@ -56,6 +58,7 @@ Enlaces relevantes:
    5. Protección de datos de carácter personal
 
 Conferencias sobre:
+
 - Storytelling con Datos
 - La estrategia del océano azul
 - Despliegue de sistemas de Machine Learning en la empresa
