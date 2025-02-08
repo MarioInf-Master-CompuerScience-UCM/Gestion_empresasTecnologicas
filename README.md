@@ -2,6 +2,12 @@
 
 **_Los presentes contenidos corresponden con la edición del curso 2022-2023_**
 
+Agradecimientos a los colaboradores del repositorio:
+
+- [Ricardo Palomares Martínez](https://github.com/RickieES)
+- [Bogdan Gabriel Voicila](https://github.com/bgvmad)
+- [Alejandro Leal Castaño](https://github.com/alejleal)
+
 Enlaces relevantes:
 
 - [Página web de la titulación](https://informatica.ucm.es/master-en-ingenieria-informatica)
