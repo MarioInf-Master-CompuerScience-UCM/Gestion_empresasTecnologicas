@@ -1,4 +1,4 @@
-# Gestión de empresas de base tecnológica
+# Gestión de empresas de base tecnológica y sistemas informáticos
 
 ![Idioma: Español](https://img.shields.io/badge/Idioma-Español-green.svg)
 ![Idioma: Español](https://img.shields.io/badge/Año_académico-2022/2023-blue.svg)
@@ -62,7 +62,3 @@ Conferencias sobre:
 - Storytelling con Datos
 - La estrategia del océano azul
 - Despliegue de sistemas de Machine Learning en la empresa
-
-## Licencia de uso
-
-<p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
